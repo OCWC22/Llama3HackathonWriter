@@ -5,6 +5,7 @@ from llama_index.core import Settings
 from llama_parse import LlamaParse
 
 
+
 nest_asyncio.apply()
 
 llm = Groq(model="llama3-8b-8192")

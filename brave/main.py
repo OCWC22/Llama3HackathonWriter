@@ -26,10 +26,16 @@ def search_expert_suggestion_subtopic(subtopic):
     # Performing the search
     results = brave.search(params)
 
-     # Dumping the search results to a JSON file
-    with open(f"{subtopic}_search_results.json", "w") as file:
+    # Get the current directory absolute path
+    current_dir = os.path.abspath(os.path.curdir)
+
+    # Construct the full path for the JSON file
+    json_file_path = os.path.join(current_dir, f"brave/search_result/{subtopic}_search_results.json")
+
+    # Dumping the search results to a JSON file
+    with open(json_file_path, "w") as file:
         json.dump(results, file, indent=4)
-    # print(results)
+
     # Dumping and printing the schema of the results
     print(dump_schema(results))
 
@@ -61,7 +67,7 @@ def search_expert_suggestion_subtopic_llm(subtopic):
 if __name__ == "__main__":
     # print(search_expert_suggestion_subtopic("communication with team members"))
     # print(search_expert_suggestion_subtopic("how to climb corporate ladder as engineer"))
-    print(search_expert_suggestion_subtopic("how to host a meeting in tech firm"))
+    print(search_expert_suggestion_subtopic("how to host a meeting in big tech firm"))
 
 
 

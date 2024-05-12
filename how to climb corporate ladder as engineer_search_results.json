@@ -1,0 +1,1177 @@
+{
+    "query": {
+        "original": "Successful people's thoughts on how to climb corporate ladder as engineer",
+        "show_strict_warning": false,
+        "is_navigational": false,
+        "is_news_breaking": false,
+        "spellcheck_off": true,
+        "country": "us",
+        "bad_results": false,
+        "should_fallback": false,
+        "postal_code": "",
+        "city": "",
+        "header_country": "",
+        "more_results_available": true,
+        "state": ""
+    },
+    "mixed": {
+        "type": "mixed",
+        "main": [
+            {
+                "type": "web",
+                "index": 0,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 1,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 2,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 3,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 4,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 5,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 6,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 7,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 8,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 9,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 10,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 11,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 12,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 13,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 14,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 15,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 16,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 17,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 18,
+                "all": false
+            },
+            {
+                "type": "web",
+                "index": 19,
+                "all": false
+            }
+        ],
+        "top": [],
+        "side": []
+    },
+    "type": "search",
+    "web": {
+        "type": "search",
+        "results": [
+            {
+                "title": "r/AskEngineers on Reddit: How do you climb the corporate ladder the quickest as an engineer? And is it worth it?",
+                "url": "https://www.reddit.com/r/AskEngineers/comments/rwopxj/how_do_you_climb_the_corporate_ladder_the/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Posted by u/engineersaregreat - 415 votes and 207 comments",
+                "page_age": "2021-09-02T18:02:48",
+                "profile": {
+                    "name": "Reddit",
+                    "url": "https://www.reddit.com/r/AskEngineers/comments/rwopxj/how_do_you_climb_the_corporate_ladder_the/",
+                    "long_name": "reddit.com",
+                    "img": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "qa",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "reddit.com",
+                    "hostname": "www.reddit.com",
+                    "favicon": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+                    "path": "  \u203a r/askengineers  \u203a how do you climb the corporate ladder the quickest as an engineer? and is it worth it?"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/Bwg-hz6TCrj8qQARKjnYDBQsCsaN_AeIBP9dSiiit8Y/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zaGFy/ZS5yZWRkLml0L3By/ZXZpZXcvcG9zdC9y/d29weGo",
+                    "original": "https://share.redd.it/preview/post/rwopxj",
+                    "logo": false
+                },
+                "age": "September 2, 2021",
+                "qa": {
+                    "question": "<p>\n    I&#39;m a 25 year old process engineer at a large (&gt;15,000 employees) company. This is my second job out of school and I&#39;m enjoying it quite a lot so far. But I often see/interact with directors/VPs that appear to be in their late 30s to early 40s. I can only imagine what they make...\n  </p><p>\n    I know it&#39;s generalization and speculation but how did they get to their positions so early on? Kissing maximum ass? Being really good engineers and making the company a ton of money? Getting lucky? Devoting every waking moment to the company and sacrificing a personal life? Have daddy put in a good word? Go golfing with upper management regularly?\n  </p><p>\n    And whatever they did, was it worth it to get to that position? Being the decision maker, making all that money, being in meetings 95% of the day, being expected to answer calls/emails on vacation and at 2AM?\n  </p><p>\n    Should I even bother trying to guide my career towards that path or just keep doing my job to the best of my ability while maintaining a thriving personal life? Should I bounce from job to job often? IF I wanted to be at that level, what is the quickest way to get there?\n  </p>",
+                    "answer": {
+                        "text": "<div>\n<p>\n    I've been at this awhile and played the game.  I was a young engineer and made front line manager before I was 30.  Here's a few of the things that I learned the hard way.\n  </p>\n<p>\n    You must always advocate for yourself.  No one else will do it for you.  Now there's a million ways to do it, and company culture will dictate a lot of it, but never assume someone else has your best interests in mind.  Part of this is learning to play politics.  To many people in my career were proud to profess \"I don't play politics\" only to be sidelined.  Games get played with or without your consent, don't be passive.\n  </p>\n<p>\n    You're an engineer, you bring a skill set that others don't.  I was always ruthless and meticulous at bringing the facts to light.  I earned the reputation of having all my facts in order once by screwing over a director from another department when he tried to screw me over in a meeting.  After that hard earned reputation was won, I did everything I could to maintain it.\n  </p>\n<p>\n    You will never have enough time, or ability to do everything.  Become a master at dropping bullshit and picking what's important over what's pressing.  People will love to misdirect you and waste your time, so get just as good at saying no as saying yes.\n  </p>\n<p>\n    Finally, in today's day an age the ability to grow in a single company is mostly a dead idea.  Balance your career and set goals.  If you aren't making those goals at one company?  Move.  You should be prepared to move to other parts of the country too.\n  </p>\n<p>\n    Finally, read, read, read.  You should be reading lots of books on everything from sales, negotiation, to workflow ideas.  Always sharpen the saw.\n  </p>\n<p>\n    You can have a balanced personal life and work life.  There will be some points where you need to put one over the other, but in the end if you build your life right, you'll make that choice, not others.\n  </p>\n<p>\n    Edit to add:  A couple of people have asked the same or similar questions.\n  </p>\n<p>\n    Books?  There's so many I've read, but a few to start are:\n  </p>\n<ul>\n      <li>\n    <p>\n    7 habits of highly successful people\n  </p>\n  </li>\n<li>\n    <p>\n    Never Split the Difference\n  </p>\n  </li>\n<li>\n    <p>\n    48 laws of power\n  </p>\n  </li>\n<li>\n    <p>\n    The 4 hour work week\n  </p>\n  </li>\n<li>\n    <p>\n    How to win friends and influence people\n  </p>\n  </li>\n    </ul>\n<p>\n    In general with books, don't be afraid to read anything.  I've had epiphanies reading about late 1920's monetary policy.\n  </p>\n<p>\n    A couple of people have asked about office politics.  Here's the key take away.  You can be Machiavelli, or you can be Cincinnatus.  The most important thing to understand?  How the game is played.  Even if you want to chill, be a good worker, and keep your head below the fray you need to understand that the games of power will get played.  I've seen people who picked the wrong mentor, failed to see what was going on and went down with the ship when their mentor crashed and burned.\n  </p>\n</div>\n",
+                        "upvoteCount": 838
+                    }
+                },
+                "extra_snippets": [
+                    "For them, it's about setting up work flow for success. Get really good at lists, and list making. Understand your boundaries and work to build systems that support that, not hinder it. For example, for homework my ADHD does it on a yoga ball, as a therapist told us that a little kinetic energy can help them resolve the conflict in their brain and focus better. For the Autism? Man that's a hard one, but you're already an Engineer I assume so likely people won't notice that much?",
+                    "I\u2019ve been in four companies and I\u2019ve only seen one incompetent person make it to director and that is because he led a very successful project (that was successful in spite of him, not because of him) and he was a good self promoter. I became an Engineering Director at 45. It is surprising how small the delta $ is for this role. There are people \u201cunder me\u201d who make more than I do, as they should.",
+                    "I've seen people who picked the wrong mentor, failed to see what was going on and went down with the ship when their mentor crashed and burned. ... This comment is the most valuable top level one so far. Notice how little cynicism or mentions of 'ass-kissing' are in it. Direct, concise, actionable advice given, which is exactly how one climbs that ladder.",
+                    "This is me and I think that\u2019s why people hate corporate world. Seriously considering moving on. ... The game is being played with or without you. You don't have to play it the same way as everyone else, but it IS being played. ... I don't have an interest in playing games or really climbing the corporate ladder, I just want to do a good job, is that bad?"
+                ]
+            },
+            {
+                "title": "How to Climb the Corporate Ladder: Career Goals and Tips | Simplilearn",
+                "url": "https://www.simplilearn.com/climbing-corporate-ladder-advice-for-millennial-article",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Wondering how to climb the corporate ladder faster. Check out our article to know the importance of career goals and how to climb the career ladder faster. Keep learning!",
+                "page_age": "2016-01-27T09:55:17",
+                "profile": {
+                    "name": "Simplilearn",
+                    "url": "https://www.simplilearn.com/climbing-corporate-ladder-advice-for-millennial-article",
+                    "long_name": "simplilearn.com",
+                    "img": "https://imgs.search.brave.com/H1-npaC9zLo0QgNO8xoDCvXs3VK22CdLdi7ewGcMXms/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2E0YTc5Yzhm/NGMyNjUyMjM5OTgx/YjNlNGUwZThjMGMy/ZTEzMWUxMTg4YzMz/NWU0MWZkZWVmM2Ez/ZjNjZjcwOC93d3cu/c2ltcGxpbGVhcm4u/Y29tLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "location",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "simplilearn.com",
+                    "hostname": "www.simplilearn.com",
+                    "favicon": "https://imgs.search.brave.com/H1-npaC9zLo0QgNO8xoDCvXs3VK22CdLdi7ewGcMXms/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2E0YTc5Yzhm/NGMyNjUyMjM5OTgx/YjNlNGUwZThjMGMy/ZTEzMWUxMTg4YzMz/NWU0MWZkZWVmM2Ez/ZjNjZjcwOC93d3cu/c2ltcGxpbGVhcm4u/Y29tLw",
+                    "path": "  \u203a home  \u203a resources  \u203a career fast-track  \u203a how to climb the corporate ladder: career goals and tips"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/xfpxTRwRjKCsTQdakgQ8xtyFNpsZmgTJAnvHYrn4CEE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2ltcGxpbGVhcm4u/Y29tL2ljZTkvZnJl/ZV9yZXNvdXJjZXNf/YXJ0aWNsZV90aHVt/Yi9DbGltYmluZy10/aGUtQ29ycG9yYXRl/LUxhZGRlci5qcGc",
+                    "original": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Climbing-the-Corporate-Ladder.jpg",
+                    "logo": false
+                },
+                "age": "January 27, 2016",
+                "location": {
+                    "title": "United States",
+                    "url": "https://www.simplilearn.com/climbing-corporate-ladder-advice-for-millennial-article",
+                    "is_source_local": false,
+                    "is_source_both": false,
+                    "description": "",
+                    "family_friendly": true,
+                    "type": "location_result",
+                    "provider_url": "https://www.simplilearn.com/climbing-corporate-ladder-advice-for-millennial-article",
+                    "coordinates": [
+                        -95.36327,
+                        29.76328
+                    ],
+                    "zoom_level": 7,
+                    "thumbnail": {
+                        "src": "https://imgs.search.brave.com/xfpxTRwRjKCsTQdakgQ8xtyFNpsZmgTJAnvHYrn4CEE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2ltcGxpbGVhcm4u/Y29tL2ljZTkvZnJl/ZV9yZXNvdXJjZXNf/YXJ0aWNsZV90aHVt/Yi9DbGltYmluZy10/aGUtQ29ycG9yYXRl/LUxhZGRlci5qcGc",
+                        "original": "https://www.simplilearn.com/ice9/free_resources_article_thumb/Climbing-the-Corporate-Ladder.jpg"
+                    },
+                    "postal_address": {
+                        "type": "PostalAddress",
+                        "streetAddress": "201 Spear Street, Suite 1100, San Francisco, CA 94105 United States",
+                        "displayAddress": "201 Spear Street, Suite 1100, San Francisco, CA 94105 United States"
+                    },
+                    "profiles": [
+                        {
+                            "type": "external",
+                            "name": "simplilearn.com",
+                            "url": "https://www.simplilearn.com/climbing-corporate-ladder-advice-for-millennial-article",
+                            "img": "https://imgs.search.brave.com/H1-npaC9zLo0QgNO8xoDCvXs3VK22CdLdi7ewGcMXms/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvM2E0YTc5Yzhm/NGMyNjUyMjM5OTgx/YjNlNGUwZThjMGMy/ZTEzMWUxMTg4YzMz/NWU0MWZkZWVmM2Ez/ZjNjZjcwOC93d3cu/c2ltcGxpbGVhcm4u/Y29tLw"
+                        }
+                    ],
+                    "categories": []
+                },
+                "article": {
+                    "author": [
+                        {
+                            "type": "person",
+                            "name": "Avantika Monnappa",
+                            "url": "https://www.simplilearn.com/authors/"
+                        }
+                    ],
+                    "date": "Jan 27, 2016",
+                    "publisher": {
+                        "type": "organization",
+                        "name": "Simplilearn",
+                        "thumbnail": {
+                            "src": "https://imgs.search.brave.com/IHfZ92ucm-T2Vr5k0mwHYaRTTLgKWQD5RiynEEuTKGI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2ltcGxpbGVhcm4u/Y29tL2xvZ28ucG5n",
+                            "original": "https://www.simplilearn.com/logo.png"
+                        }
+                    }
+                },
+                "extra_snippets": [
+                    "Wondering how to climb the corporate ladder faster. Check out our article to know the importance of career goals and how to climb the career ladder faster.Keep learning!",
+                    "In this article \u201chow to climb the corporate ladder\u201d we learned that millennials get a lot of bad press in the media as they\u2019re labeled self-centered, entitled, and lazy. Some people view the job-hopping that\u2019s typical of Millennials as proof of these negative labels.",
+                    "And they are willing to change jobs frequently to make this happen, with people aged 25 to 34 years old changing jobs about every two and a half years. ... The expression \"How to Climb the Corporate Ladder\" signifies progress inside an organization from the basic level to the top level through promotions.",
+                    "If you are wondering how to climb the corporate ladder faster check out these tips. As with goal setting, a plan is necessary as your roadmap to your next career goal. It can be a short-term or long-term plan, but have a plan! The more people you know, the better for your career."
+                ]
+            },
+            {
+                "title": "What happens to software engineers who don't climb the corporate ladder and stay as engineers? - Quora",
+                "url": "https://www.quora.com/What-happens-to-software-engineers-who-dont-climb-the-corporate-ladder-and-stay-as-engineers",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Answer (1 of 32): I assume by corporate ladder you are talking about a technical growth path and a managerial growth path. Normally after five years, you have reached a job title that is either technical or managerial, both requiring a Master&#x27;s degree, MS and MBA respectively. This is where you m...",
+                "profile": {
+                    "name": "Quora",
+                    "url": "https://www.quora.com/What-happens-to-software-engineers-who-dont-climb-the-corporate-ladder-and-stay-as-engineers",
+                    "long_name": "quora.com",
+                    "img": "https://imgs.search.brave.com/h-UMKefr-GC4QAyvmDqJX6In84keNLnjKLoM-VE4l_w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quora.com",
+                    "hostname": "www.quora.com",
+                    "favicon": "https://imgs.search.brave.com/h-UMKefr-GC4QAyvmDqJX6In84keNLnjKLoM-VE4l_w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw",
+                    "path": "\u203a What-happens-to-software-engineers-who-dont-climb-the-corporate-ladder-and-stay-as-engineers"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/-gXlE5M32qzKTobLZADMiFBR912DkddgCAsgYBCb7C4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9xcGgu/Y2YyLnF1b3JhY2Ru/Lm5ldC9tYWluLWN1/c3RvbS10LTcyNDkt/NjAweDMxNS1sdXN4/cmt5Y3VlanNmdm1t/a2Z5Z2Z4bnF6ZnZr/cWN2eS5qcGVn",
+                    "original": "https://qph.cf2.quoracdn.net/main-custom-t-7249-600x315-lusxrkycuejsfvmmkfygfxnqzfvkqcvy.jpeg",
+                    "logo": false
+                }
+            },
+            {
+                "title": "What advice do you have for engineers in climbing the career ladder? - Quora",
+                "url": "https://www.quora.com/What-advice-do-you-have-for-engineers-in-climbing-the-career-ladder",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Answer (1 of 3): First and foremost, decide what type of personality you are. Are you an extrovert who can easily start a conversation with a total stranger? Do you like to travel, socialize, get to learn other aspects of business, and are determined to climb a career ladder to the top of the cor...",
+                "profile": {
+                    "name": "Quora",
+                    "url": "https://www.quora.com/What-advice-do-you-have-for-engineers-in-climbing-the-career-ladder",
+                    "long_name": "quora.com",
+                    "img": "https://imgs.search.brave.com/h-UMKefr-GC4QAyvmDqJX6In84keNLnjKLoM-VE4l_w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quora.com",
+                    "hostname": "www.quora.com",
+                    "favicon": "https://imgs.search.brave.com/h-UMKefr-GC4QAyvmDqJX6In84keNLnjKLoM-VE4l_w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw",
+                    "path": "\u203a What-advice-do-you-have-for-engineers-in-climbing-the-career-ladder"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/-gXlE5M32qzKTobLZADMiFBR912DkddgCAsgYBCb7C4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9xcGgu/Y2YyLnF1b3JhY2Ru/Lm5ldC9tYWluLWN1/c3RvbS10LTcyNDkt/NjAweDMxNS1sdXN4/cmt5Y3VlanNmdm1t/a2Z5Z2Z4bnF6ZnZr/cWN2eS5qcGVn",
+                    "original": "https://qph.cf2.quoracdn.net/main-custom-t-7249-600x315-lusxrkycuejsfvmmkfygfxnqzfvkqcvy.jpeg",
+                    "logo": false
+                }
+            },
+            {
+                "title": "r/AskEngineers on Reddit: What's The Best Path to Climb The Engineering Corporate Latter?",
+                "url": "https://www.reddit.com/r/AskEngineers/comments/ozl3l3/whats_the_best_path_to_climb_the_engineering/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Posted by u/dubs_ee_2846 - 190 votes and 82 comments",
+                "page_age": "2021-02-26T20:10:52",
+                "profile": {
+                    "name": "Reddit",
+                    "url": "https://www.reddit.com/r/AskEngineers/comments/ozl3l3/whats_the_best_path_to_climb_the_engineering/",
+                    "long_name": "reddit.com",
+                    "img": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "qa",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "reddit.com",
+                    "hostname": "www.reddit.com",
+                    "favicon": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+                    "path": "  \u203a r/askengineers  \u203a what's the best path to climb the engineering corporate latter?"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/eflXGbt5WtdRhSzJwfQpCKXF4rhVe5ZtUMpVkn6TPrk/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zaGFy/ZS5yZWRkLml0L3By/ZXZpZXcvcG9zdC9v/emwzbDM",
+                    "original": "https://share.redd.it/preview/post/ozl3l3",
+                    "logo": false
+                },
+                "age": "February 26, 2021",
+                "qa": {
+                    "question": "<p>\n    I love engineering. I also want to climb the corporate ladder. What&#39;s the best path for me to do that?\n  </p>",
+                    "answer": {
+                        "text": "<div>\n<p>\n    Execution...Visibility...Networking...\n  </p>\n<p>\n    Execution = gain expertise and do your job well. Gradually increase your responsibility and show you can lead projects and teams. Maintain a high say:do ratio. Also learn how to present to audiences at different levels (your presentations and delivery change based on the audience). You need to be able to communicate clearly and effectively.\n  </p>\n<p>\n    Visibility = don't shy away from high visibility projects. Remember that being the best engineer in the company doesn't mean anything if your leadership doesn't know about it.\n  </p>\n<p>\n    Networking = never underestimate the power of having a strong network. Learn how to market yourself and establish your own brand. Talk about your career goals. Get some mentors both inside and outside your immediate work group to understand the skills you need to develop to get to the job you want. Mentors can also be great advocates for you. Side note: one piece of advice my mentor shared with me is to look at skills and behaviors and not job title. That will help you lay out your career better\n  </p>\n<p>\n    Keep gathering information and lay out a career path with the understanding that:\n  </p>\n<ol>\n      <li>\n    <p>\n    It can always change\n  </p>\n  </li>\n<li>\n    <p>\n    You have to manage your own career\n  </p>\n  </li>\n    </ol>\n<p>\n    Be careful with \"jumping around\" to keep moving up. You need to make sure your moves are intentional. That is, they have a clear purpose towards your long term goals by helping you close a skill gap or gaining exposure to a key part of the business. Moving between jobs for the band or pay without a clear purpose risks you losing momentum and time towards your end goal.\n  </p>\n<p>\n    Edit: Wow! I think this is my first award. Thank you kind stranger!\n  </p>\n</div>\n",
+                        "upvoteCount": 227
+                    }
+                },
+                "extra_snippets": [
+                    "I also learned that when you're about 10-15 years into your career, you'll be given a choice to either become a Technical Specialist in your chosen field, or start managing projects and climbing the corporate ladder into business management. Technical Professionals get calculations thrown over the cubicle for them to process and are generally best left out of the public eye for everyone's mutual enjoyment. They usually have a Technical Masters or even Doctorate and will top out career wise around \"Department Head\" or just \"Technical Professional V: Company Resume Headliner\". Management types need to be able to talk engineering, but also be charming enough to close deals and talk around missed deadlines.",
+                    "I love engineering. I also want to climb the corporate ladder. What's the best path for me to do that?",
+                    "Be good at responding to emails, be professional, be polished, be a good presenter, lead meetings, ask and answer questions, be calm, and last and least importantly be a really good engineer lol ... The skills that never get taught in school. ... Smaller companies make this significantly easier. Work at a small company, wear as many hats as possible, gather a decent portfolio of accomplishments and jump to a big company for the paycheck. ... This. I almost thought you were going to say you could climb at a small company (not at all) but you CAN get all do the work roles/responsibilities of those higher positions without much effort (just never the actual title).",
+                    "I almost thought you were going to say you could climb at a small company (not at all) but you CAN get all do the work roles/responsibilities of those higher positions without much effort (just never the actual title). You got to get that experience and then move to a different company to actually start climbing ... I realized Freshman Year that I was pretty smart, but was never going to compete with the truly \"smart kids\" in Engineering school that were SUPER into their chosen fields."
+                ]
+            },
+            {
+                "title": "How to Climb the Engineering Career Ladder | Fellow.app",
+                "url": "https://fellow.app/blog/productivity/engineering-how-to-climb-the-engineering-career-ladder/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Learn what an engineering ladder is, why an engineering ladder is important, and 4 engineering ladder roles. Plus, get free templates!",
+                "page_age": "2022-07-13T15:42:20",
+                "profile": {
+                    "name": "Fellow",
+                    "url": "https://fellow.app/blog/productivity/engineering-how-to-climb-the-engineering-career-ladder/",
+                    "long_name": "fellow.app",
+                    "img": "https://imgs.search.brave.com/i7hGvq8qKINWpV4XQ-DPo1qhx0QvHCSaCpk8Fala8_g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThhMWQ4MTNk/N2NhNmQ0ZWNiZTNl/ZjQzMzYzZDk1Yzg5/MmE1ODA5OGE0MDc5/ZmU2ZjhjZGRjOTQz/YWFjY2M0YS9mZWxs/b3cuYXBwLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "fellow.app",
+                    "hostname": "fellow.app",
+                    "favicon": "https://imgs.search.brave.com/i7hGvq8qKINWpV4XQ-DPo1qhx0QvHCSaCpk8Fala8_g/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYThhMWQ4MTNk/N2NhNmQ0ZWNiZTNl/ZjQzMzYzZDk1Yzg5/MmE1ODA5OGE0MDc5/ZmU2ZjhjZGRjOTQz/YWFjY2M0YS9mZWxs/b3cuYXBwLw",
+                    "path": "  \u203a home  \u203a how to climb the engineering career ladder"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/5_KQr8FQP6zwKn8nn8VlUwwJ9DdmcG_GEKFB15UF1RI/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9mZWxs/b3cuYXBwL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDIyLzA3L0Vu/Z2luZWVyaW5nLUNh/cmVlci1MYWRkZXIt/Mi5qcGc",
+                    "original": "https://fellow.app/wp-content/uploads/2022/07/Engineering-Career-Ladder-2.jpg",
+                    "logo": false
+                },
+                "age": "July 13, 2022",
+                "article": {
+                    "author": [
+                        {
+                            "type": "person",
+                            "name": "Alexandria Hewko"
+                        }
+                    ],
+                    "date": "Jul 13, 2022",
+                    "publisher": {
+                        "type": "organization",
+                        "name": "Fellow",
+                        "url": "https://fellow.app/",
+                        "thumbnail": {
+                            "src": "https://imgs.search.brave.com/GM6VYR2PYylhQolqfXJqha1scOZPmb4NYNaY18vJgh4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9mZWxs/b3cuYXBwL3dwLWNv/bnRlbnQvdXBsb2Fk/cy8yMDE5LzA2L2Fu/ZHJvaWQtY2hyb21l/LTI1NngyNTYucG5n",
+                            "original": "https://fellow.app/wp-content/uploads/2019/06/android-chrome-256x256.png"
+                        }
+                    }
+                },
+                "organization": {
+                    "type": "organization",
+                    "name": "Fellow",
+                    "contact_points": []
+                },
+                "extra_snippets": [
+                    "These questions can be a great way to see how other people got into their roles and can also help you reflect on what you\u2019re enjoying and where you want to go next. Some examples of questions are: ... Part of planning your engineering ladder is determining what you want to do, as well as how and when you\u2019re planning to get there.",
+                    "An engineering ladder is the career framework or step-by-step progression plan that you have for your career in engineering. The ladder maps out the job titles that you want to see in your future and arranges them in order from the one that you\u2019re currently in, to the next job, the next, and all the way to the top of the career ladder that you imagine.",
+                    "The ladder maps out the job titles that you want to see in your future and arranges them in order from the one that you\u2019re currently in, to the next job, the next, and all the way to the top of the career ladder that you imagine. The beauty of the engineering ladder is that while there is a framework for the typical engineering progress, you can also customize the ladder for your own career dreams.",
+                    "Having an engineering ladder set up for yourself is important since it will give you directions and goals as you progress throughout your career. It\u2019s a great tool to help you make decisions like whether you should learn skill A or skill B (the ladder will prompt you to ask which one will be more important in the next role for you)."
+                ]
+            },
+            {
+                "title": "The Simplest Way to Climb the Corporate Ladder in Record Time | Tim Denning",
+                "url": "https://timdenning.com/climb-corporate-ladder/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Not everyone wants to quit their job and live the laptop lifestyle. I was that guy for years. The appeal of entrepreneurship meant nothing to me. I liked th ...",
+                "page_age": "2022-10-24T09:55:15",
+                "profile": {
+                    "name": "Tim Denning",
+                    "url": "https://timdenning.com/climb-corporate-ladder/",
+                    "long_name": "timdenning.com",
+                    "img": "https://imgs.search.brave.com/qD6Ri0dbvdRiH3j-36vMaeR1OKjUo4kPORMMMnKRKao/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDBjM2UzNjQ3/MDgzZDYzY2U5YzYw/ZjA3NzMzNGUwOGVi/OTM2NjAzMWZkYmVh/NTQxMWNiNzFkMWEz/YjE1YzM4ZS90aW1k/ZW5uaW5nLmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "timdenning.com",
+                    "hostname": "timdenning.com",
+                    "favicon": "https://imgs.search.brave.com/qD6Ri0dbvdRiH3j-36vMaeR1OKjUo4kPORMMMnKRKao/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZDBjM2UzNjQ3/MDgzZDYzY2U5YzYw/ZjA3NzMzNGUwOGVi/OTM2NjAzMWZkYmVh/NTQxMWNiNzFkMWEz/YjE1YzM4ZS90aW1k/ZW5uaW5nLmNvbS8",
+                    "path": "  \u203a home  \u203a startups  \u203a the simplest way to climb the corporate ladder in record\u00a0time"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/1PYvCdbBJn6zVnh04DB6hGdr0c5spCaNOyYldbbHgbs/rs:fit:200:200:1/g:ce/aHR0cHM6Ly90aW1k/ZW5uaW5nLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8x/MC8xX0hnZVFidGNS/ejZMQlhXR1M2a1pS/eHcuanBlZw",
+                    "original": "https://timdenning.com/wp-content/uploads/2022/10/1_HgeQbtcRz6LBXWGS6kZRxw.jpeg"
+                },
+                "age": "October 24, 2022",
+                "article": {
+                    "author": [
+                        {
+                            "type": "person",
+                            "name": "Tim Denning",
+                            "url": "https://timdenning.com/author/tdenning/",
+                            "thumbnail": {
+                                "src": "https://imgs.search.brave.com/H61u-ByvXV6AfNQTyZZJGvVGO7kMUCBiAdWsfuovcb8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly90aW1k/ZW5uaW5nLmNvbS93/cC1jb250ZW50L3Vw/bG9hZHMvMjAyMi8w/My9UaW1fRGVubmlu/Z19Qb3J0cmFpdC5q/cGc",
+                                "original": "https://timdenning.com/wp-content/uploads/2022/03/Tim_Denning_Portrait.jpg"
+                            }
+                        }
+                    ],
+                    "date": "Oct 24, 2022",
+                    "publisher": {
+                        "type": "organization",
+                        "name": "Tim Denning",
+                        "url": "https://timdenning.com"
+                    }
+                },
+                "organization": {
+                    "type": "organization",
+                    "name": "Tim Denning",
+                    "contact_points": []
+                },
+                "extra_snippets": [
+                    "Because I got the intro from them, the people they referred me to often thought I had an existing relationship. I played up the theatrics of my relationships with these senior leaders. I\u2019d get snippets of their life from social media or the company blog and then pretend I had some closeness to them. Because they, too, were trying to climb the corporate ladder, they didn\u2019t want to disappoint the senior leaders who referred me.",
+                    "The people who can help you climb the corporate ladder will be impressed if you start conversations on LinkedIn and comment on industry topics with smart thoughts. In my case, the people who could help me climb further my career wanted me to help them with their own LinkedIn accounts. Why can\u2019t you spend some time on LinkedIn? You can. ... Yuck. Only a drop-kick with no brain would say this. If you didn\u2019t get a pay rise or promotion a leader will assume you didn\u2019t: ... A career owes you nothing. Learn the corporate ladder game or get crushed by it.",
+                    "Even though I can\u2019t code I\u2019ve done plenty of code interviews for software engineers (don\u2019t ask\u2026haha). I learned quickly that memorizing a few lines of gibberish (aka code) didn\u2019t get you hired. Coding is the language of solving problems. Technical hiring managers care more about how you think about a problem than the code you suggest as your answer. Knowing basic code makes you a better problem-solver. And problem-solvers climb the corporate ladder the fastest and take home the biggest pay.",
+                    "After a few frothy ones people\u2019s mouths would become loose. They\u2019d tell you who was about to leave, might leave, or was about to get fired. Once you had that information all you had to do was stay close to the action and double down on building relationships in and around the position. Lesson: the best jobs are never advertised. I climbed the corporate ladder by inventing my own team."
+                ]
+            },
+            {
+                "title": "The CEO's Secret To Moving Up the Corporate Career Ladder - LifeHack",
+                "url": "https://www.lifehack.org/627056/how-to-climb-the-corporate-career-ladder",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Don&#x27;t be deceived into thinking that it&#x27;s easy to climb the career ladder. It&#x27;s not. However, there are some authentic ways to rise higher in your career.",
+                "page_age": "2017-09-13T14:30:01",
+                "profile": {
+                    "name": "Lifehack",
+                    "url": "https://www.lifehack.org/627056/how-to-climb-the-corporate-career-ladder",
+                    "long_name": "lifehack.org",
+                    "img": "https://imgs.search.brave.com/tCeudhDGQ7Oz8hQKwmQX1y3YgrNNpTGH06oA0HdIkEU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTNkMWM5ZjJh/ZmVmZjM2ODZmZTAz/MWMwYjE4NmU1ZWM0/NzFhMDBjOTVhY2Nk/MGRhMjAzMzQxODUw/MDJkNDE0NS93d3cu/bGlmZWhhY2sub3Jn/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "lifehack.org",
+                    "hostname": "www.lifehack.org",
+                    "favicon": "https://imgs.search.brave.com/tCeudhDGQ7Oz8hQKwmQX1y3YgrNNpTGH06oA0HdIkEU/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvOTNkMWM5ZjJh/ZmVmZjM2ODZmZTAz/MWMwYjE4NmU1ZWM0/NzFhMDBjOTVhY2Nk/MGRhMjAzMzQxODUw/MDJkNDE0NS93d3cu/bGlmZWhhY2sub3Jn/Lw",
+                    "path": "  \u203a home  \u203a productivity  \u203a the ceo\u2019s secret to moving up the corporate career ladder"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/NW2s_cWadqt8QPq9stPqUVABxsiVn38JdK9RlOVqH0Q/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/bGlmZWhhY2sub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDE3/LzA5LzEyMjM0MTE2/L2NvcnBvcmF0ZS1s/YWRkZXIuMDAxLmpw/ZWc",
+                    "original": "https://cdn.lifehack.org/wp-content/uploads/2017/09/12234116/corporate-ladder.001.jpeg",
+                    "logo": false
+                },
+                "age": "September 13, 2017",
+                "article": {
+                    "author": [
+                        {
+                            "type": "person",
+                            "name": "Leon Ho"
+                        }
+                    ],
+                    "date": "Sep 13, 2017",
+                    "publisher": {
+                        "type": "organization",
+                        "name": "LifeHack",
+                        "url": "https://www.lifehack.org/",
+                        "thumbnail": {
+                            "src": "https://imgs.search.brave.com/o1UTcZnT6t7IDeKpmqqYRJ3-cLpa50TQLdkFZpD5AL8/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9jZG4u/bGlmZWhhY2sub3Jn/L3dwLWNvbnRlbnQv/dXBsb2Fkcy8yMDIz/LzAyL2xoLWxvZ28t/YmxhY2stb24td2hp/dGUtYmctc2NhbGVk/LmpwZw",
+                            "original": "https://cdn.lifehack.org/wp-content/uploads/2023/02/lh-logo-black-on-white-bg-scaled.jpg"
+                        }
+                    }
+                },
+                "extra_snippets": [
+                    "Let's face it, many try to climb the career ladder, but few succeed. As the CEO of Lifehack, I've seen a lot of employees trying to rise higher in their",
+                    "After many years watching the winners and losers, it\u2019s clear to me that putting exclusive focus on climbing up the career ladder leads to failure. When a person\u2019s eyes are on the ultimate result only (to be at the \u2018highest point\u2019 in their career), they tend to neglect important things like: personal growth, skills development and cooperation with other people.",
+                    "As you are determined to climb the career ladder, you choose to enroll in your own time in a course in office management. Here you learn vital skills such as health and safety rules, supplier coordination and people management. With the extra skills, you find yourself ideally-placed to snap up any office management vacancies that come your way \u2013 either within your company, or within a different company. I\u2019ve covered the five essentials for climbing the career ladder, but now I want to add some more tips to help you succeed.",
+                    "If anyone tells you that there is a super-fast way to get to the top of the career ladder \u2013 it\u2019s a lie. Growth is the foundation for climbing higher; and growth takes time. That \u201csuper-fast way\u201d doesn\u2019t allow for growth in a person. However, while it takes time to grow, there are ways to accelerate growth."
+                ]
+            },
+            {
+                "title": "Do you want to climb the career ladder? - by Jean Hsu",
+                "url": "https://jeanhsu.substack.com/p/do-you-want-to-climb-the-career-ladder",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Thoughts on not being a particularly goal-oriented person",
+                "page_age": "2022-04-25T00:28:39",
+                "profile": {
+                    "name": "Substack",
+                    "url": "https://jeanhsu.substack.com/p/do-you-want-to-climb-the-career-ladder",
+                    "long_name": "jeanhsu.substack.com",
+                    "img": "https://imgs.search.brave.com/2gpaR0IeSwHSmee2fgG8HOpjO-1lt4RcZOlvdYa1mpE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzFlZDY0NDc4/NmU3ZTlmYzAzMmUw/ODM2M2M5OGRkYjI0/MjI1MmEwYWZjMWQ0/ZjMwNGVmMThiYTYz/NzcyODVlOC9qZWFu/aHN1LnN1YnN0YWNr/LmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "jeanhsu.substack.com",
+                    "hostname": "jeanhsu.substack.com",
+                    "favicon": "https://imgs.search.brave.com/2gpaR0IeSwHSmee2fgG8HOpjO-1lt4RcZOlvdYa1mpE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYzFlZDY0NDc4/NmU3ZTlmYzAzMmUw/ODM2M2M5OGRkYjI0/MjI1MmEwYWZjMWQ0/ZjMwNGVmMThiYTYz/NzcyODVlOC9qZWFu/aHN1LnN1YnN0YWNr/LmNvbS8",
+                    "path": "\u203a p  \u203a do-you-want-to-climb-the-career-ladder"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/wZjVEd8CvG2UXd4dtVoNXTZ7bWPTFPhfMtjC3gvrj7g/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdWJz/dGFja2Nkbi5jb20v/aW1hZ2UvZmV0Y2gv/Zl9hdXRvLHFfYXV0/bzpnb29kLGZsX3By/b2dyZXNzaXZlOnN0/ZWVwL2h0dHBzJTNB/JTJGJTJGYnVja2V0/ZWVyLWUwNWJiYzg0/LWJhYTMtNDM3ZS05/NTE4LWFkYjMyYmU3/Nzk4NC5zMy5hbWF6/b25hd3MuY29tJTJG/cHVibGljJTJGaW1h/Z2VzJTJGZTIxNGEw/MTItM2U4ZS00YmRj/LTkyMDUtZDk2NjEy/YWMwZGZlXzQwMzJ4/MzAyNC5qcGVn",
+                    "original": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe214a012-3e8e-4bdc-9205-d96612ac0dfe_4032x3024.jpeg",
+                    "logo": false
+                },
+                "age": "April 25, 2022",
+                "article": {
+                    "author": [
+                        {
+                            "type": "person",
+                            "name": "Jean Hsu",
+                            "url": "https://substack.com/@jeanhsu",
+                            "thumbnail": {
+                                "src": "https://imgs.search.brave.com/VYsbH4FZxaSgbCJTijaJ6nSCi8xsDrZS8cUUPNPEPiE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdWJz/dGFja2Nkbi5jb20v/aW1hZ2UvZmV0Y2gv/Zl9hdXRvLHFfYXV0/bzpnb29kLGZsX3By/b2dyZXNzaXZlOnN0/ZWVwL2h0dHBzJTNB/JTJGJTJGYnVja2V0/ZWVyLWUwNWJiYzg0/LWJhYTMtNDM3ZS05/NTE4LWFkYjMyYmU3/Nzk4NC5zMy5hbWF6/b25hd3MuY29tJTJG/cHVibGljJTJGaW1h/Z2VzJTJGZThhOTU1/Y2ItMzhjNC00NTJi/LWFkODUtNTYxNWVi/OGExZjQ0XzM1MXgz/NTEuanBlZw",
+                                "original": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fbucketeer-e05bbc84-baa3-437e-9518-adb32be77984.s3.amazonaws.com%2Fpublic%2Fimages%2Fe8a955cb-38c4-452b-ad85-5615eb8a1f44_351x351.jpeg"
+                            }
+                        }
+                    ],
+                    "date": "Apr 25, 2022",
+                    "publisher": {
+                        "type": "organization",
+                        "name": "Tech and Tea",
+                        "url": "https://jeanhsu.substack.com",
+                        "thumbnail": {
+                            "src": "https://imgs.search.brave.com/oElSQ5ZzSoRQltpXDyKgExxdRD4djD-6xU6bNhgTpbM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zdWJz/dGFja2Nkbi5jb20v/aW1hZ2UvZmV0Y2gv/Zl9hdXRvLHFfYXV0/bzpnb29kLGZsX3By/b2dyZXNzaXZlOnN0/ZWVwL2h0dHBzJTNB/JTJGJTJGc3Vic3Rh/Y2stcG9zdC1tZWRp/YS5zMy5hbWF6b25h/d3MuY29tJTJGcHVi/bGljJTJGaW1hZ2Vz/JTJGMzhhNzk1YWYt/OWNmZS00NDg0LWI5/MjgtYWExNzU5OWY5/Nzk3XzEwMjR4MTAy/NC5wbmc",
+                            "original": "https://substackcdn.com/image/fetch/f_auto,q_auto:good,fl_progressive:steep/https%3A%2F%2Fsubstack-post-media.s3.amazonaws.com%2Fpublic%2Fimages%2F38a795af-9cfe-4484-b928-aa17599f9797_1024x1024.png"
+                        }
+                    },
+                    "isAccessibleForFree": true
+                },
+                "extra_snippets": [
+                    "As a leadership coach who is also not conventionally \u201cgoal-oriented,\u201d I find that I\u2019m actually uniquely able to help people find things they\u2019re genuinely enthused about, not just default to \u201cbecome a staff engineer\u201d (a totally legit goal if that motivates you!). It seems like there are people who when you put a ladder in front of them, they just want to climb it.",
+                    "As an industry, we tend to assume that people want to climb the ladder. Or that people who aren\u2019t interested in it aren\u2019t motivated, or are happy to stagnate and coast. As one of those people, that couldn\u2019t be further from the truth. Some ideas for how to make tech more inclusive by supporting people who aren\u2019t that motivated by the standard career ladder: Create space for people without multi-year plans. I recently talked to an early career engineer who felt overwhelmed because she didn\u2019t have a robust career plan.",
+                    "So when I had this exchange on twitter, it felt really reassuring to be in the good company of people I respect, who are by every measure \u201csuccessful\u201d in this industry, on team no-career-goals. But it also got me thinking \u2014 am I really not a goal-oriented person, or am I just motivated by different kinds of goals? When we talk about \u201ccareer goals,\u201d we have something specific in mind, like, \u201cI want to found a startup,\u201d or \u201cI want to be a principal engineer.\u201d I realized that it\u2019s not that I don\u2019t have goals, but they\u2019re of a slightly different flavor.",
+                    "I left Google because the idea of spending the next 10 years of my life climbing an arbitrary ladder honestly just did not feel very appealing. At that transition, I honestly almost left tech because I wondered, is it really for me, if I\u2019m not interested in climbing the ladder?"
+                ]
+            },
+            {
+                "title": "12 Tips for Software Engineers to Climb the Corporate Ladder \u2013 Truth in Software",
+                "url": "https://blog.bytellect.com/software-development/the-business-of-software/career-advice-for-software-engineers/12-tips-for-software-engineers-to-climb-the-corporate-ladder/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "From someone who has been there, here are a dozen tips for software engineers who want to climb the corporate ladder: Be an outstanding software engineer. This can\u2019t be overemphasized. Meet and exceed the expectations for your position. Make sure you know exactly what those expectations are.",
+                "profile": {
+                    "name": "Bytellect",
+                    "url": "https://blog.bytellect.com/software-development/the-business-of-software/career-advice-for-software-engineers/12-tips-for-software-engineers-to-climb-the-corporate-ladder/",
+                    "long_name": "blog.bytellect.com",
+                    "img": "https://imgs.search.brave.com/IzqNxcuXnFViH8zYrFIc6PGkvzcxyjxVbHstzsKauG0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmQ0NDkzMWRm/ZGU1MzZiNWVjZTc4/NzEwNjUzYzE4OGUy/M2I3MjIwMDllMjNl/YWE4ZmU3MDU3Y2Yw/MDNmNGI2Yi9ibG9n/LmJ5dGVsbGVjdC5j/b20v"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "blog.bytellect.com",
+                    "hostname": "blog.bytellect.com",
+                    "favicon": "https://imgs.search.brave.com/IzqNxcuXnFViH8zYrFIc6PGkvzcxyjxVbHstzsKauG0/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYmQ0NDkzMWRm/ZGU1MzZiNWVjZTc4/NzEwNjUzYzE4OGUy/M2I3MjIwMDllMjNl/YWE4ZmU3MDU3Y2Yw/MDNmNGI2Yi9ibG9n/LmJ5dGVsbGVjdC5j/b20v",
+                    "path": "\u203a software-development  \u203a the-business-of-software  \u203a career-advice-for-software-engineers  \u203a 12-tips-for-software-engineers-to-climb-the-corporate-ladder"
+                },
+                "extra_snippets": [
+                    "You\u2019ll need to be great at writing crystal clear technical specifications, communicating effectively with non-technical people, presenting to groups of all sizes, using email effectively, communicating effectively with others who don\u2019t share the same spoken first language, etc. For many software engineers, this requires a lot of effort and a willingness to step outside your comfort zone.",
+                    "For many software engineers, this requires a lot of effort and a willingness to step outside your comfort zone. Tell the truth and be diplomatic. Your integrity is incredibly valuable. If you lose it by lying or cheating, it\u2019s very difficult to win back the trust of others. If you need to provide negative feedback to someone, don\u2019t do it in front of other people.",
+                    "If you lose it by lying or cheating, it\u2019s very difficult to win back the trust of others. If you need to provide negative feedback to someone, don\u2019t do it in front of other people. Care about others. I know this sounds odd, but you might be surprised at how many engineers are so narrowly focused that they don\u2019t want to be bothered with people.",
+                    "Learn the business. Gain an understanding of the roles and responsibilities of other teams, departments, and divisions. Understand how each contributes to the success of the business. Strive to have a good grasp of the big picture, and then strive to grasp an even bigger picture."
+                ]
+            },
+            {
+                "title": "How To Climb the Corporate Ladder To Meet Your Goals | Indeed.com",
+                "url": "https://www.indeed.com/career-advice/finding-a-job/corporate-ladder",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "The corporate ladder gets increasingly ... in middle and upper management. People climb the corporate ladder to get higher salaries, acquire impressive job titles, take on new challenges and feel more fulfilled....",
+                "profile": {
+                    "name": "Indeed Career Guide",
+                    "url": "https://www.indeed.com/career-advice/finding-a-job/corporate-ladder",
+                    "long_name": "indeed.com",
+                    "img": "https://imgs.search.brave.com/kpsRafNbkDMe0QbGEY2l98l2M2b-3nKvsyV_Lt1ViUc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0ZDNjOGEw/ZTFkNzAxOTFlYWE2/NThjOWEyNzI4YjZj/NDQ4OWU1NDFiOTFm/NThmMjhjMmVjMzli/ZTY2YTQ4Ny93d3cu/aW5kZWVkLmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "indeed.com",
+                    "hostname": "www.indeed.com",
+                    "favicon": "https://imgs.search.brave.com/kpsRafNbkDMe0QbGEY2l98l2M2b-3nKvsyV_Lt1ViUc/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvZWY0ZDNjOGEw/ZTFkNzAxOTFlYWE2/NThjOWEyNzI4YjZj/NDQ4OWU1NDFiOTFm/NThmMjhjMmVjMzli/ZTY2YTQ4Ny93d3cu/aW5kZWVkLmNvbS8",
+                    "path": "  \u203a career guide  \u203a finding a job  \u203a how to climb the corporate ladder to meet your goals"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/m7_nBo9bfPX1wjWxAP4ICli8k-10RorpM7H2d-imGXM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9pbWFn/ZXMuY3RmYXNzZXRz/Lm5ldC9wZGYyOXVz/N2ZsbXkvMTVvUTJK/SVloeWR3NUZGWDg5/emhpcy83MGRmYzk2/N2JmZTYzYjRmZjM3/NjkxOTYzMTQ5ZDdm/YS81LnN2Zz93PTcy/MCZhbXA7cT0xMDAm/YW1wO2ZtPWpwZw.svg",
+                    "original": "https://images.ctfassets.net/pdf29us7flmy/15oQ2JIYhydw5FFX89zhis/70dfc967bfe63b4ff37691963149d7fa/5.svg?w=720&amp;q=100&amp;fm=jpg",
+                    "logo": true
+                },
+                "extra_snippets": [
+                    "People climb the corporate ladder to get higher salaries, acquire impressive job titles, take on new challenges and feel more fulfilled. If you are interested in moving up in your company, here are the steps to take:",
+                    "Participating in company activities such as social events, charity work or work sports teams also shows your love and dedication for the company and can help introduce you to people who can assist you in your corporate ladder climb with networking.",
+                    "The corporate ladder gets increasingly more difficult to climb since companies typically have a larger portion of entry-level positions and fewer positions in middle and upper management. People climb the corporate ladder to get higher salaries, acquire impressive job titles, take on new challenges and feel more fulfilled.",
+                    "To advance in your career and reach your dream position, you'll need to progress professionally, climbing up through what is known as the \"corporate ladder.\" In this article, you'll learn what the corporate ladder is, why it's important to your career and what steps to take to advance to the top."
+                ]
+            },
+            {
+                "title": "Seven tips to help you climb the corporate ladder | Kaplan Professional",
+                "url": "https://www.kaplanprofessional.edu.au/blog/seven-tips-to-help-you-climb-the-corporate-ladder/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Many people have the ambition to excel within their company but need a master plan to move forward. We have seven great tips to turn your career wishes into goals, and those goals into accomplishments.",
+                "page_age": "2018-12-05T05:56:00",
+                "profile": {
+                    "name": "Kaplan Professional",
+                    "url": "https://www.kaplanprofessional.edu.au/blog/seven-tips-to-help-you-climb-the-corporate-ladder/",
+                    "long_name": "kaplanprofessional.edu.au",
+                    "img": "https://imgs.search.brave.com/bw9-OC9r5D3bwMyRdxm7kFK2TyhLblnHVRj0G8r-EXo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmU3YWM4M2Q5/YjBmMGM3YzdjOWQ5/ZmFmZDg2YmZmZjJh/ZTkxOWYwYWQ1MjMx/MjBiZTYyMjY0N2Y3/ZTcyZmU0OC93d3cu/a2FwbGFucHJvZmVz/c2lvbmFsLmVkdS5h/dS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "kaplanprofessional.edu.au",
+                    "hostname": "www.kaplanprofessional.edu.au",
+                    "favicon": "https://imgs.search.brave.com/bw9-OC9r5D3bwMyRdxm7kFK2TyhLblnHVRj0G8r-EXo/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNmU3YWM4M2Q5/YjBmMGM3YzdjOWQ5/ZmFmZDg2YmZmZjJh/ZTkxOWYwYWQ1MjMx/MjBiZTYyMjY0N2Y3/ZTcyZmU0OC93d3cu/a2FwbGFucHJvZmVz/c2lvbmFsLmVkdS5h/dS8",
+                    "path": "  \u203a home  \u203a blog  \u203a seven tips to help you climb the corporate ladder"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/i5CRAdL_c8TUBNvIzbGozf2FX9SREP3si_AI-HmnCQc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/a2FwbGFucHJvZmVz/c2lvbmFsLmVkdS5h/dS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8wNS8wMDE0NTRf/QmxvZy1JbWFnZV9D/b3Jwb3JhdGUtTGFk/ZGVyLmpwZw",
+                    "original": "https://www.kaplanprofessional.edu.au/wp-content/uploads/2023/05/001454_Blog-Image_Corporate-Ladder.jpg",
+                    "logo": false
+                },
+                "age": "December 5, 2018",
+                "article": {
+                    "author": [
+                        {
+                            "type": "person",
+                            "name": "Tom Baldwin"
+                        }
+                    ],
+                    "date": "Dec 05, 2018",
+                    "publisher": {
+                        "type": "organization",
+                        "name": "Kaplan Professional",
+                        "url": "https://www.kaplanprofessional.edu.au/",
+                        "thumbnail": {
+                            "src": "https://imgs.search.brave.com/1um1hOC90xDeC_CEwoFZrCU5cAcUs7aokkf99KnAzvc/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/a2FwbGFucHJvZmVz/c2lvbmFsLmVkdS5h/dS93cC1jb250ZW50/L3VwbG9hZHMvMjAy/My8wMi9rYXBsYW5f/bG9nby0xLnN2Zw.svg",
+                            "original": "https://www.kaplanprofessional.edu.au/wp-content/uploads/2023/02/kaplan_logo-1.svg"
+                        }
+                    }
+                },
+                "extra_snippets": [
+                    "Are you looking to climb the corporate ladder? Many people have the ambition to excel within their company but need a master plan to move forward. We have seven great tips to turn your career wishes into goals, and those goals into accomplishments.",
+                    "Be sure to also form connections with the people you work with, beyond creating a friendlier workplace \u2013 these relationships will support the growth of your career. 4. Be confident in being noticed, sharing ideas and recommendations \u00b7 \u201cCreative thinking inspires ideas. Ideas inspire change.\u201d \u2013 Barbara Januszkiewicz \u00b7 Standing out is always better than fitting in. Success often comes from bringing fresh ideas, suggestions and approaches that others can\u2019t. Thought leaders are never afraid to give constructive opinions and challenge the norms.",
+                    "Many people have the ambition to excel within their company but need a master plan to move forward. We have seven great tips to turn your career wishes into goals, and those goals into accomplishments. ... Are you looking to climb the corporate ladder? Many people have the ambition to excel within their company but need a master plan to move forward.",
+                    "Success often comes from bringing fresh ideas, suggestions and approaches that others can\u2019t. Thought leaders are never afraid to give constructive opinions and challenge the norms. For example, if you believe there\u2019s a more dynamic or effective approach to a particular task \u2013 voice that opinion while also being considerate of your team\u2019s thoughts and expertise."
+                ]
+            },
+            {
+                "title": "Why Climbing the Corporate Ladder Is No Longer The Ultimate Goal - Glassdoor US",
+                "url": "https://www.glassdoor.com/blog/climbing-the-corporate-ladder/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Once upon a time, climbing the corporate ladder was the definition of success \u2014 but those days are largely in the past.",
+                "page_age": "2017-06-07T14:57:49",
+                "profile": {
+                    "name": "Glassdoor",
+                    "url": "https://www.glassdoor.com/blog/climbing-the-corporate-ladder/",
+                    "long_name": "glassdoor.com",
+                    "img": "https://imgs.search.brave.com/wypp7fnKljuRjJzHhuKQDh7G8-qaIeEPyy_VQ-BJTUA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmRiYjJiOTdj/ZjM3Yjg1MDkxMzUx/NWU5OTMzZTc4MDNh/YWY3NTIzNTNjYTZh/NjFiNTQ3NjhjYzBh/NDhmNTRhMy93d3cu/Z2xhc3Nkb29yLmNv/bS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "glassdoor.com",
+                    "hostname": "www.glassdoor.com",
+                    "favicon": "https://imgs.search.brave.com/wypp7fnKljuRjJzHhuKQDh7G8-qaIeEPyy_VQ-BJTUA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvMmRiYjJiOTdj/ZjM3Yjg1MDkxMzUx/NWU5OTMzZTc4MDNh/YWY3NTIzNTNjYTZh/NjFiNTQ3NjhjYzBh/NDhmNTRhMy93d3cu/Z2xhc3Nkb29yLmNv/bS8",
+                    "path": "\u203a blog  \u203a climbing-the-corporate-ladder"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/th6I1jCpl5I8GZxg9-PEQzq__6Y9ynp0U6NsNZ3gGA0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9nbGFz/c2Rvb3IuY29tL3dw/LWNvbnRlbnQvdXBs/b2Fkcy9zaXRlcy8y/L2lTdG9jay02NjU5/MDY0OTYuanBn",
+                    "original": "https://glassdoor.com/wp-content/uploads/sites/2/iStock-665906496.jpg",
+                    "logo": false
+                },
+                "age": "June 7, 2017",
+                "article": {
+                    "author": [
+                        {
+                            "type": "person",
+                            "name": "Glassdoor Team",
+                            "url": "https://www.facebook.com/Glassdoor/"
+                        }
+                    ],
+                    "date": "Jun 07, 2017",
+                    "publisher": {
+                        "type": "organization",
+                        "name": "Glassdoor US",
+                        "url": "https://glassdoor.com"
+                    }
+                },
+                "extra_snippets": [
+                    "Turns out, most workers don't dream of fancy titles or the corner office anymore.",
+                    "In the Baby Boomers' generation, \u201cclimbing the corporate ladder\u201d was often the definition of success \u2014 the idea of starting in the mailroom and working your way up to being president seemed to be their American dream.",
+                    "The traditional corporate ladder doesn\u2019t apply to them, because they aren\u2019t even at a company long enough to make a dent in it. As you can see, the workforce is diverse and ever-evolving. So before you automatically consider a promotion into a leadership position as the ultimate reward for your employees, take a step back. You may need to shake up your mindset of what professional success means to each individual and work with them according to their unique career goals.",
+                    "Because of the \u201ccorporate ladder\u201d mentality being ingrained in the younger generations\u2019 heads, some people think it\u2019s important to follow the formula of obtaining a college degree, landing an office job, and working your way to the top. But perhaps because of this, there is a shortage of skilled blue collar workers."
+                ]
+            },
+            {
+                "title": "17 Tips to Climb the Corporate Ladder You Need to Know",
+                "url": "https://www.scienceofpeople.com/climbing-the-corporate-ladder/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "If you have strong career ambitions and want to climb the corporate ladder, you may enjoy this article that shares 17 unexpected tips to boost your career.",
+                "page_age": "2023-12-18T15:02:56",
+                "profile": {
+                    "name": "Science of People",
+                    "url": "https://www.scienceofpeople.com/climbing-the-corporate-ladder/",
+                    "long_name": "scienceofpeople.com",
+                    "img": "https://imgs.search.brave.com/q_WiB898vMdyRqqU2zmg0wX2R96zAOq5UfIRrXmLzoA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNmU2OWUz/ZWJhYzgzYzQ5NDE2/ODg3Zjg4NDQ0NjQw/ZWQ3NTgxNDczYzUx/ODAwNjBmNTZiMGQ2/MTE3OWQwYy93d3cu/c2NpZW5jZW9mcGVv/cGxlLmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "faq",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "scienceofpeople.com",
+                    "hostname": "www.scienceofpeople.com",
+                    "favicon": "https://imgs.search.brave.com/q_WiB898vMdyRqqU2zmg0wX2R96zAOq5UfIRrXmLzoA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNmU2OWUz/ZWJhYzgzYzQ5NDE2/ODg3Zjg4NDQ0NjQw/ZWQ3NTgxNDczYzUx/ODAwNjBmNTZiMGQ2/MTE3OWQwYy93d3cu/c2NpZW5jZW9mcGVv/cGxlLmNvbS8",
+                    "path": "  \u203a home  \u203a career  \u203a 17 tips to climb the corporate ladder you need to know"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/w_82g5O1LxSbpOWZqg0HSK99eWJH9TxinoS7WByKwmw/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2NpZW5jZW9mcGVv/cGxlLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyMy8xMi9D/bGltYmluZy10aGUt/Y29ycG9yYXRlLWxh/ZGRlci5qcGc",
+                    "original": "https://www.scienceofpeople.com/wp-content/uploads/2023/12/Climbing-the-corporate-ladder.jpg",
+                    "logo": false
+                },
+                "age": "December 18, 2023",
+                "faq": {
+                    "items": [
+                        {
+                            "question": "What is \"Climbing the Corporate Ladder\"?",
+                            "answer": "Climbing the corporate ladder refers to advancing through a company's ranks to reach higher-level positions. Think of it as a journey from the mailroom to the boardroom, acquiring new skills, responsibilities, and, often, better pay.",
+                            "title": "17 Tips to Climb the Corporate Ladder You Need to Know",
+                            "url": "https://www.scienceofpeople.com/climbing-the-corporate-ladder/",
+                            "meta_url": {
+                                "scheme": "https",
+                                "netloc": "scienceofpeople.com",
+                                "hostname": "www.scienceofpeople.com",
+                                "favicon": "https://imgs.search.brave.com/q_WiB898vMdyRqqU2zmg0wX2R96zAOq5UfIRrXmLzoA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNmU2OWUz/ZWJhYzgzYzQ5NDE2/ODg3Zjg4NDQ0NjQw/ZWQ3NTgxNDczYzUx/ODAwNjBmNTZiMGQ2/MTE3OWQwYy93d3cu/c2NpZW5jZW9mcGVv/cGxlLmNvbS8",
+                                "path": "  \u203a home  \u203a career  \u203a 17 tips to climb the corporate ladder you need to know"
+                            }
+                        },
+                        {
+                            "question": "Why is climbing the corporate ladder necessary for career growth?",
+                            "answer": "Climbing the corporate ladder is necessary for career growth because it often results in increased income, better job security, and more opportunities for professional development. If you're ambitious and want to tap into the full potential of your career path, moving up in your organization is often the way to do it.",
+                            "title": "17 Tips to Climb the Corporate Ladder You Need to Know",
+                            "url": "https://www.scienceofpeople.com/climbing-the-corporate-ladder/",
+                            "meta_url": {
+                                "scheme": "https",
+                                "netloc": "scienceofpeople.com",
+                                "hostname": "www.scienceofpeople.com",
+                                "favicon": "https://imgs.search.brave.com/q_WiB898vMdyRqqU2zmg0wX2R96zAOq5UfIRrXmLzoA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNmU2OWUz/ZWJhYzgzYzQ5NDE2/ODg3Zjg4NDQ0NjQw/ZWQ3NTgxNDczYzUx/ODAwNjBmNTZiMGQ2/MTE3OWQwYy93d3cu/c2NpZW5jZW9mcGVv/cGxlLmNvbS8",
+                                "path": "  \u203a home  \u203a career  \u203a 17 tips to climb the corporate ladder you need to know"
+                            }
+                        },
+                        {
+                            "question": "What are some essential skills and qualifications needed for career advancement?",
+                            "answer": "Essential skills and qualifications needed for career advancement include hard skills related to your job and soft skills like communication, leadership, and adaptability. You'll often need a combination of these to navigate complex corporate structures effectively.",
+                            "title": "17 Tips to Climb the Corporate Ladder You Need to Know",
+                            "url": "https://www.scienceofpeople.com/climbing-the-corporate-ladder/",
+                            "meta_url": {
+                                "scheme": "https",
+                                "netloc": "scienceofpeople.com",
+                                "hostname": "www.scienceofpeople.com",
+                                "favicon": "https://imgs.search.brave.com/q_WiB898vMdyRqqU2zmg0wX2R96zAOq5UfIRrXmLzoA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNmU2OWUz/ZWJhYzgzYzQ5NDE2/ODg3Zjg4NDQ0NjQw/ZWQ3NTgxNDczYzUx/ODAwNjBmNTZiMGQ2/MTE3OWQwYy93d3cu/c2NpZW5jZW9mcGVv/cGxlLmNvbS8",
+                                "path": "  \u203a home  \u203a career  \u203a 17 tips to climb the corporate ladder you need to know"
+                            }
+                        },
+                        {
+                            "question": "How can networking and mentorship contribute to climbing the corporate ladder?",
+                            "answer": "Networking and mentorship contribute to climbing the corporate ladder by providing valuable insights, resources, and connections you might not otherwise gain. Think of your network and mentors as your board of directors guiding you toward making smarter career moves.",
+                            "title": "17 Tips to Climb the Corporate Ladder You Need to Know",
+                            "url": "https://www.scienceofpeople.com/climbing-the-corporate-ladder/",
+                            "meta_url": {
+                                "scheme": "https",
+                                "netloc": "scienceofpeople.com",
+                                "hostname": "www.scienceofpeople.com",
+                                "favicon": "https://imgs.search.brave.com/q_WiB898vMdyRqqU2zmg0wX2R96zAOq5UfIRrXmLzoA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNmU2OWUz/ZWJhYzgzYzQ5NDE2/ODg3Zjg4NDQ0NjQw/ZWQ3NTgxNDczYzUx/ODAwNjBmNTZiMGQ2/MTE3OWQwYy93d3cu/c2NpZW5jZW9mcGVv/cGxlLmNvbS8",
+                                "path": "  \u203a home  \u203a career  \u203a 17 tips to climb the corporate ladder you need to know"
+                            }
+                        },
+                        {
+                            "question": "What are some common challenges and obstacles during the journey to the top?",
+                            "answer": "Common challenges and obstacles during the journey to the top often include fierce competition, organizational politics, and the risk of burnout. It's not just about what you know but also who you know and how well you maneuver through these challenges.",
+                            "title": "17 Tips to Climb the Corporate Ladder You Need to Know",
+                            "url": "https://www.scienceofpeople.com/climbing-the-corporate-ladder/",
+                            "meta_url": {
+                                "scheme": "https",
+                                "netloc": "scienceofpeople.com",
+                                "hostname": "www.scienceofpeople.com",
+                                "favicon": "https://imgs.search.brave.com/q_WiB898vMdyRqqU2zmg0wX2R96zAOq5UfIRrXmLzoA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNmU2OWUz/ZWJhYzgzYzQ5NDE2/ODg3Zjg4NDQ0NjQw/ZWQ3NTgxNDczYzUx/ODAwNjBmNTZiMGQ2/MTE3OWQwYy93d3cu/c2NpZW5jZW9mcGVv/cGxlLmNvbS8",
+                                "path": "  \u203a home  \u203a career  \u203a 17 tips to climb the corporate ladder you need to know"
+                            }
+                        },
+                        {
+                            "question": "How can work-life balance be maintained while striving for career progression?",
+                            "answer": "Maintaining work-life balance while striving for career progression is crucial for avoiding burnout and sustaining long-term success. Strategies include effective time management, setting boundaries, and making time for self-care and family.",
+                            "title": "17 Tips to Climb the Corporate Ladder You Need to Know",
+                            "url": "https://www.scienceofpeople.com/climbing-the-corporate-ladder/",
+                            "meta_url": {
+                                "scheme": "https",
+                                "netloc": "scienceofpeople.com",
+                                "hostname": "www.scienceofpeople.com",
+                                "favicon": "https://imgs.search.brave.com/q_WiB898vMdyRqqU2zmg0wX2R96zAOq5UfIRrXmLzoA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNmU2OWUz/ZWJhYzgzYzQ5NDE2/ODg3Zjg4NDQ0NjQw/ZWQ3NTgxNDczYzUx/ODAwNjBmNTZiMGQ2/MTE3OWQwYy93d3cu/c2NpZW5jZW9mcGVv/cGxlLmNvbS8",
+                                "path": "  \u203a home  \u203a career  \u203a 17 tips to climb the corporate ladder you need to know"
+                            }
+                        },
+                        {
+                            "question": "What role do effective communication and leadership play in climbing the corporate ladder?",
+                            "answer": "Effective communication and leadership are pivotal in climbing the corporate ladder because they help you build strong relationships and inspire teams. Mastering these skills can make you a more appealing candidate for higher-level positions and long-term career growth.",
+                            "title": "17 Tips to Climb the Corporate Ladder You Need to Know",
+                            "url": "https://www.scienceofpeople.com/climbing-the-corporate-ladder/",
+                            "meta_url": {
+                                "scheme": "https",
+                                "netloc": "scienceofpeople.com",
+                                "hostname": "www.scienceofpeople.com",
+                                "favicon": "https://imgs.search.brave.com/q_WiB898vMdyRqqU2zmg0wX2R96zAOq5UfIRrXmLzoA/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYWIzNmU2OWUz/ZWJhYzgzYzQ5NDE2/ODg3Zjg4NDQ0NjQw/ZWQ3NTgxNDczYzUx/ODAwNjBmNTZiMGQ2/MTE3OWQwYy93d3cu/c2NpZW5jZW9mcGVv/cGxlLmNvbS8",
+                                "path": "  \u203a home  \u203a career  \u203a 17 tips to climb the corporate ladder you need to know"
+                            }
+                        }
+                    ]
+                },
+                "article": {
+                    "author": [
+                        {
+                            "type": "person",
+                            "name": "Mike Mantell"
+                        }
+                    ],
+                    "date": "Dec 18, 2023",
+                    "publisher": {
+                        "type": "organization",
+                        "name": "Science of People",
+                        "url": "https://www.scienceofpeople.com/",
+                        "thumbnail": {
+                            "src": "https://imgs.search.brave.com/FaW3LRNPlvdeX6a1l3b662kOkJiwZ1XqHGOnKPowf9I/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/c2NpZW5jZW9mcGVv/cGxlLmNvbS93cC1j/b250ZW50L3VwbG9h/ZHMvMjAyNC8wMS8x/LnBuZw",
+                            "original": "https://www.scienceofpeople.com/wp-content/uploads/2024/01/1.png"
+                        }
+                    }
+                },
+                "extra_snippets": [
+                    "Learn how to climb the corporate ladder with these 17 actionable tips. For any professional looking to skyrocket up the ranks.",
+                    "Your career success is in your hands. Climbing the corporate ladder comes down to pro-activity and strategy. ... Network internally. Set up a monthly coffee with people in your company, especially those with a higher position than you.",
+                    "David Cote2https://www.kiplinger.com/slideshow/business/t012-s001-15-ceos-who-started-on-the-ground-floor/index.html started as an hourly General Electric jet engine plant worker. He eventually climbed up to work as the CEO of the technology company Honeywell. Cote tells one compelling story of a time early in his career when his team members asked him to do a task he thought was ill-advised.",
+                    "Maintaining work-life balance while striving for career progression is crucial for avoiding burnout and sustaining long-term success. Strategies include effective time management, setting boundaries, and making time for self-care and family. What role do effective communication and leadership play in climbing the corporate ladder?"
+                ]
+            },
+            {
+                "title": "r/LifeProTips on Reddit: LPT Request: how do you rise up the corporate ladder in an engineering job as a fresh graduate?",
+                "url": "https://www.reddit.com/r/LifeProTips/comments/pvdi3j/lpt_request_how_do_you_rise_up_the_corporate/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "22M subscribers in the LifeProTips community. Tips that improve your life in one way or another.",
+                "page_age": "2021-04-17T12:43:05",
+                "profile": {
+                    "name": "Reddit",
+                    "url": "https://www.reddit.com/r/LifeProTips/comments/pvdi3j/lpt_request_how_do_you_rise_up_the_corporate/",
+                    "long_name": "reddit.com",
+                    "img": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "reddit.com",
+                    "hostname": "www.reddit.com",
+                    "favicon": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+                    "path": "  \u203a r/lifeprotips  \u203a lpt request: how do you rise up the corporate ladder in an engineering job as a fresh graduate?"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/LIZUW7_qhIrbRC0upmeN5SQ5WeK09XnJ_RVDJoZk_6o/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9zaGFy/ZS5yZWRkLml0L3By/ZXZpZXcvcG9zdC9w/dmRpM2o",
+                    "original": "https://share.redd.it/preview/post/pvdi3j",
+                    "logo": false
+                },
+                "age": "April 17, 2021",
+                "extra_snippets": [
+                    "Posted by u/alexwitwicky - 4 votes and 12 comments",
+                    "LPT: As a fresh grad you will not climb to the upper echelons of management and the corporate ladder. Stop wasting time and energy trying to accomplish that and focus on building experience just working.",
+                    "Being a good engineer is not the same training as being a good business person. I've had several EITs who couldn't understand how their technical cleverness didn't translate into success. ... Get your job done. Hang out with senior peers to understand the current ladder and their requirements.",
+                    "If you don't have leadership skills you'll never be offered a partnership (ever). Being a good engineer is not the same training as being a good business person. I've had several EITs who couldn't understand how their technical cleverness didn't translate into success."
+                ]
+            },
+            {
+                "title": "r/programming on Reddit: What happens to software engineers who don\u2019t climb the corporate ladder and stay as engineers?",
+                "url": "https://www.reddit.com/r/programming/comments/1zexe9/what_happens_to_software_engineers_who_dont_climb/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "5.7M subscribers in the programming community. Computer Programming",
+                "page_age": "2014-03-03T06:21:38",
+                "profile": {
+                    "name": "Reddit",
+                    "url": "https://www.reddit.com/r/programming/comments/1zexe9/what_happens_to_software_engineers_who_dont_climb/",
+                    "long_name": "reddit.com",
+                    "img": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "reddit.com",
+                    "hostname": "www.reddit.com",
+                    "favicon": "https://imgs.search.brave.com/mAZYEK9Wi13WLDUge7XZ8YuDTwm6DP6gBjvz1GdYZVY/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvN2ZiNTU0M2Nj/MTFhZjRiYWViZDlk/MjJiMjBjMzFjMDRk/Y2IzYWI0MGI0MjVk/OGY5NzQzOGQ5NzQ5/NWJhMWI0NC93d3cu/cmVkZGl0LmNvbS8",
+                    "path": "  \u203a r/programming  \u203a what happens to software engineers who don\u2019t climb the corporate ladder and stay as engineers?"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/IQsT4Y9EsePwda912EgMv94qOl3-BDwy8VRM9THnsz0/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9leHRl/cm5hbC1wcmV2aWV3/LnJlZGQuaXQvQy1z/LUMyMktJZTVTUE5w/cXB3RnQxTVRwVDJp/QkNqdGs5anA1TlNF/SGREdy5qcGc_YXV0/bz13ZWJwJnM9YTI5/NjI1NmVkYTM3MTM3/MjUyNTY1OWI3ZThm/MTI5MWRmYWI4NzEz/NA",
+                    "original": "https://external-preview.redd.it/C-s-C22KIe5SPNpqpwFt1MTpT2iBCjtk9jp5NSEHdDw.jpg?auto=webp&s=a296256eda371372525659b7e8f1291dfab87134",
+                    "logo": false
+                },
+                "age": "March 3, 2014",
+                "article": {
+                    "author": [
+                        {
+                            "type": "person",
+                            "name": "c090288",
+                            "url": "https://www.reddit.com/user/c090288/"
+                        }
+                    ],
+                    "date": "Mar 03, 2014",
+                    "publisher": {
+                        "type": "organization",
+                        "name": "Reddit",
+                        "thumbnail": {
+                            "src": "https://imgs.search.brave.com/axK82n8DGOv8Y6FUUFSZTA0xm5zEmDGfzL9oR3h-T1A/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/cmVkZGl0c3RhdGlj/LmNvbS9td2ViMngv/ZmF2aWNvbi82NHg2/NC5wbmc",
+                            "original": "https://www.redditstatic.com/mweb2x/favicon/64x64.png"
+                        }
+                    }
+                },
+                "extra_snippets": [
+                    "Corporate management is the worst place to be for a true techie unless you want a future of internal politics, eventual unemployment and continuous uncertainty. ... That describes my experience of management precisely. Not what I expected when I stopped being a techie in the 80s. ... You have to maintain your mistakes. ... There doesn't need to be only a single ladder to climb, many companies have a separate 'ladder' for engineers so you can climb to the same pay-level as senior management without having to leave the 'engineer' ladder, of course you can choose to leave the engineer ladder and move to the management one if you so wish.",
+                    "I think software engineers can remain an engineer and still be hugely successful if they eventually become an authority in a certain technical area. Those who climb the ladders are just pursuing a different direction: an authority of managing people. So depending on your aptitude, either way can quite successful.",
+                    "In a sick corporate culture, we are laid off and a twentysomething fresh out of college is hired at half our salary to maintain our code. In a healthy, functional company, we have a separate promotion ladder that usually looks somewhat like: Senior Software Engineer -> Technical Lead -> Principal Software Engineer -> Associate Technical Fellow -> Technical Fellow",
+                    "In a healthy, functional company, we have a separate promotion ladder that usually looks somewhat like: Senior Software Engineer -> Technical Lead -> Principal Software Engineer -> Associate Technical Fellow -> Technical Fellow \u00b7 A \"Senior Software Engineer\" is a code producer with component design responsibilities. A \"Technical Lead\" is a code producer with component design and mentoring responsibilities. A \"Principal Software Engineer\" is a project lead engineer."
+                ]
+            },
+            {
+                "title": "How to Climb Onto the Engineering Career Ladder ...",
+                "url": "https://www.careermetis.com/how-to-climb-onto-the-engineering-career-ladder/",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Looking for a job in software engineering? Learn about the software engineer recruiting process from crafting your resume to working with a new team.",
+                "page_age": "2017-09-28T17:00:13",
+                "profile": {
+                    "name": "Careermetis",
+                    "url": "https://www.careermetis.com/how-to-climb-onto-the-engineering-career-ladder/",
+                    "long_name": "careermetis.com",
+                    "img": "https://imgs.search.brave.com/yinl_2n9WhlODehsO9va_DA2xgrj8c-OLLyhCcxokNQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUzYzk3NDhl/OTRlNTIzM2IzZWFm/Mzg4Y2Q0M2U5MmI0/ZWU1YzQwZDdmNzQ5/ZGVlMGEzZTI5YzJh/MzYxOWY4MS93d3cu/Y2FyZWVybWV0aXMu/Y29tLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "careermetis.com",
+                    "hostname": "www.careermetis.com",
+                    "favicon": "https://imgs.search.brave.com/yinl_2n9WhlODehsO9va_DA2xgrj8c-OLLyhCcxokNQ/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNDUzYzk3NDhl/OTRlNTIzM2IzZWFm/Mzg4Y2Q0M2U5MmI0/ZWU1YzQwZDdmNzQ5/ZGVlMGEzZTI5YzJh/MzYxOWY4MS93d3cu/Y2FyZWVybWV0aXMu/Y29tLw",
+                    "path": "  \u203a home  \u203a advice  \u203a career paths  \u203a how to climb onto the engineering career ladder?"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/aFZitw1npfAnpVAPQB-0HEHWbYT7CWaD2kcQoz1QlRU/rs:fit:200:200:1/g:ce/aHR0cHM6Ly93d3cu/Y2FyZWVybWV0aXMu/Y29tL3dwLWNvbnRl/bnQvdXBsb2Fkcy9F/bGVjdHJpY2FsLUVu/Z2luZWVyaW5nLXNj/YWxlZC1lMTU4ODI5/MzAwMTY0Ny5qcGc",
+                    "original": "https://www.careermetis.com/wp-content/uploads/Electrical-Engineering-scaled-e1588293001647.jpg",
+                    "logo": false
+                },
+                "age": "September 28, 2017",
+                "organization": {
+                    "type": "organization",
+                    "name": "CareerMetis.com",
+                    "contact_points": []
+                },
+                "extra_snippets": [
+                    "The ability to communicate your thoughts and present your vision is a vital aspect of any job. This includes English proficiency (both written and spoken). Most companies won\u2019t even consider you as a candidate if you don\u2019t speak English or cannot put two words together at the interview.",
+                    "One of the basic requirements in such a dynamic field as software engineering is to stay up to date with the latest technologies and constantly improve existing skills. The master\u2019s degree you received 10 years ago won\u2019t impress anyone (although it is often a must-have), but a constantly growing list of training, certifications, and courses in different fields will.",
+                    "Case in point: One of the clients was looking for a developer with PhD in software engineering because the rest of the team members had such degrees."
+                ]
+            },
+            {
+                "title": "Why do some people climb the corporate ladder with such ease while the rest work hard to just keep their jobs? What is their secret? - Quora",
+                "url": "https://www.quora.com/Why-do-some-people-climb-the-corporate-ladder-with-such-ease-while-the-rest-work-hard-to-just-keep-their-jobs-What-is-their-secret",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Answer (1 of 27): From my experience, difference is mostly about how well you understand company. What most people don\u2019t get is nobody cares if you work hard. They care if you get stuff done, i.e. solve problems. To solve problems, you need to understand them, which means you must be good ...",
+                "page_age": "2017-04-21T22:52:33",
+                "profile": {
+                    "name": "Quora",
+                    "url": "https://www.quora.com/Why-do-some-people-climb-the-corporate-ladder-with-such-ease-while-the-rest-work-hard-to-just-keep-their-jobs-What-is-their-secret",
+                    "long_name": "quora.com",
+                    "img": "https://imgs.search.brave.com/h-UMKefr-GC4QAyvmDqJX6In84keNLnjKLoM-VE4l_w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "qa",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quora.com",
+                    "hostname": "www.quora.com",
+                    "favicon": "https://imgs.search.brave.com/h-UMKefr-GC4QAyvmDqJX6In84keNLnjKLoM-VE4l_w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw",
+                    "path": "\u203a Why-do-some-people-climb-the-corporate-ladder-with-such-ease-while-the-rest-work-hard-to-just-keep-their-jobs-What-is-their-secret"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/-gXlE5M32qzKTobLZADMiFBR912DkddgCAsgYBCb7C4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9xcGgu/Y2YyLnF1b3JhY2Ru/Lm5ldC9tYWluLWN1/c3RvbS10LTcyNDkt/NjAweDMxNS1sdXN4/cmt5Y3VlanNmdm1t/a2Z5Z2Z4bnF6ZnZr/cWN2eS5qcGVn",
+                    "original": "https://qph.cf2.quoracdn.net/main-custom-t-7249-600x315-lusxrkycuejsfvmmkfygfxnqzfvkqcvy.jpeg",
+                    "logo": false
+                },
+                "age": "April 21, 2017",
+                "qa": {
+                    "question": "Why do some people climb the corporate ladder with such ease while the rest work hard to just keep their jobs? What is their secret?",
+                    "answer": {
+                        "text": "Early on in my career at Morgan Stanley, a senior guy from the US, Arvind Bajaj, or \u2018RV\u2019, moved from New York to join the fast-growing ABS team in London.\n\nHere\u2019s a picture I\u2019ve found of him on the web - he\u2019s the guy on the left. In fact, he recently re-joined Morgan Stanley where his group originates commercial real estate loans.\n\nAnyway, when RV moved to London he happened to get a desk right next to me. I wasn\u2019t reporting to him but over time he became an absolutely fantastic mentor and a good friend.\n\nA few years after moving to London, RV moved to Credit Suisse. A year later, I got a call from a headhunter. Credit Suisse wanted to hire me. Weeks later I had a job offer with a guaranteed bonus offering me the biggest pay rise of my career - a 60% increase - and a big jump in responsibility.\n\nIt was a tough decision because Morgan Stanley was (and still is) one heck of an investment bank - but Credit Suisse's ABS team had ambitious plans and the increased responsibility was a great opportunity. Eventually, I accepted.\n\nRV\u2019s strong recommendation was almost certainly the main driver for me getting an offer. I.e. impressing the guy that sat next to me, that I wasn\u2019t reporting to, landed me a great opportunity and the biggest pay rise of my career.\n\nMy takeaway is this:\n\nTo climb the corporate ladder impress everyone around you and build as many life-long relationships as you can.\n\nFrom those that report to you, to those that you report to, to other colleagues, to clients. Everyone\u2019s watching you, people talk, word gets out, you don\u2019t know who will be doing what later down the road.\n\nAnd that\u2019s how you climb the corporate ladder fast - by impressing EVERYONE around you - by building a reputation.",
+                        "author": "Asim Qureshi",
+                        "upvoteCount": 21359
+                    }
+                },
+                "extra_snippets": [
+                    "Answer (1 of 27): From my experience, difference is mostly about how well you understand company. What most people don\u2019t get is nobody cares if you work hard. They care if you get stuff done, i.e. solve problems. To solve problems, you need to understand them, which means you must be good at com..."
+                ]
+            },
+            {
+                "title": "Your Guide to Climbing the Corporate Ladder: 8 Strategies to Implement Today",
+                "url": "https://www.linkedin.com/pulse/your-guide-climbing-corporate-ladder-8-strategies-today-jon-jennings",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Climbing the corporate ladder is an ambitious task that many professionals hold dear. Unsurprisingly, however, most of those seeking to advance fall short of their ultimate goal.",
+                "page_age": "2022-08-11T14:56:33",
+                "profile": {
+                    "name": "LinkedIn",
+                    "url": "https://www.linkedin.com/pulse/your-guide-climbing-corporate-ladder-8-strategies-today-jon-jennings",
+                    "long_name": "linkedin.com",
+                    "img": "https://imgs.search.brave.com/TQTym5qzpizZ5GHIgpHu6-RTEchhOps_4v-FWSI8ZIE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "article",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "linkedin.com",
+                    "hostname": "www.linkedin.com",
+                    "favicon": "https://imgs.search.brave.com/TQTym5qzpizZ5GHIgpHu6-RTEchhOps_4v-FWSI8ZIE/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvNGE1YzZjOWNj/NmNiODQ4NzI0ODg1/MGY5ZGQ2YzhjZTRm/N2NjOGIzZjc1NTlj/NDM2ZGI5Yjk3ZWI1/YzBmNzJmZS93d3cu/bGlua2VkaW4uY29t/Lw",
+                    "path": "\u203a pulse  \u203a your-guide-climbing-corporate-ladder-8-strategies-today-jon-jennings"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/UllNDH1QjiqFixIV7pF0QFB-xo8LF9zX6sPvVvGWKfM/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q1/NjEyQVFGeWJOeC1j/SS1kQncvYXJ0aWNs/ZS1jb3Zlcl9pbWFn/ZS1zaHJpbmtfNjAw/XzIwMDAvMC8xNjYw/MjI5NzI3Njc2P2U9/MjE0NzQ4MzY0NyZ2/PWJldGEmdD1ITlp4/ejVPUHRQaTJUM3pf/bVBoaUFkQ1c5U1l5/My00bEhMZFVlZkRM/OUww",
+                    "original": "https://media.licdn.com/dms/image/D5612AQFybNx-cI-dBw/article-cover_image-shrink_600_2000/0/1660229727676?e=2147483647&v=beta&t=HNZxz5OPtPi2T3z_mPhiAdCW9SYy3-4lHLdUefDL9L0",
+                    "logo": false
+                },
+                "age": "August 11, 2022",
+                "article": {
+                    "author": [
+                        {
+                            "type": "person",
+                            "name": "Jon Jennings",
+                            "thumbnail": {
+                                "src": "https://imgs.search.brave.com/Whagkq9O_zFrsRQZ4Iqwkn1UuCbk1oD5t_XGtCFfjLE/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9tZWRp/YS5saWNkbi5jb20v/ZG1zL2ltYWdlL0Q1/NjAzQVFFR1NNYjBy/RTc5Y1EvcHJvZmls/ZS1kaXNwbGF5cGhv/dG8tc2hyaW5rXzQw/MF80MDAvMC8xNjg0/MzUyOTEyODgzP2U9/MjE0NzQ4MzY0NyZ2/PWJldGEmdD1vZGFk/TDhqR0FJQkQ0LXd0/WHh4S0d1NjhhZXpx/Z1pBdWZZRmNlUE03/N3hv",
+                                "original": "https://media.licdn.com/dms/image/D5603AQEGSMb0rE79cQ/profile-displayphoto-shrink_400_400/0/1684352912883?e=2147483647&v=beta&t=odadL8jGAIBD4-wtXxxKGu68aezqgZAufYFcePM77xo"
+                            }
+                        }
+                    ],
+                    "date": "Aug 11, 2022",
+                    "isAccessibleForFree": true
+                },
+                "extra_snippets": [
+                    "It\u2019s essential to strike the right balance when summiting corporate ladder positions. This guide gives you the 8 tips you need to climb that ladder successfully. Climbing the corporate ladder successfully boils down to being intentional. If you wander aimlessly throughout your career, it will be harder to reach the top.",
+                    "Climbing the corporate ladder is often a function of who you know more than it is what you know. Networking can help you accomplish two fundamental objectives. It enables you to keep connected with people who will watch your progression and may offer you a senior position one day. Networking also allows you to meet interesting people from whom you can learn. Here are some networking tips for climbing the career ladder:",
+                    "Here are some networking tips for climbing the career ladder: ... Don\u2019t dismiss anyone as unimportant; you can prioritize certain people you want to get to know, but don\u2019t exclude anyone ... Breaking into a senior-level position may ultimately come down to your network, so don\u2019t neglect this. Climbing the career ladder isn\u2019t easy, and anyone who\u2019s done it will tell you it requires hard work."
+                ]
+            },
+            {
+                "title": "What is some advice to climb the corporate ladder quickly in this world? - Quora",
+                "url": "https://www.quora.com/What-is-some-advice-to-climb-the-corporate-ladder-quickly-in-this-world",
+                "is_source_local": false,
+                "is_source_both": false,
+                "description": "Answer (1 of 106): Unfortunately, I don\u2019t think most of the answers are accurate and there is a lot of frustration in them. I became Managing Director (CEO) of a large digital agency in London at 34. What was especially fun for me (and somewhat unique) was that I migrated to Europe (Belgium) wh...",
+                "profile": {
+                    "name": "Quora",
+                    "url": "https://www.quora.com/What-is-some-advice-to-climb-the-corporate-ladder-quickly-in-this-world",
+                    "long_name": "quora.com",
+                    "img": "https://imgs.search.brave.com/h-UMKefr-GC4QAyvmDqJX6In84keNLnjKLoM-VE4l_w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw"
+                },
+                "language": "en",
+                "family_friendly": true,
+                "type": "search_result",
+                "subtype": "generic",
+                "meta_url": {
+                    "scheme": "https",
+                    "netloc": "quora.com",
+                    "hostname": "www.quora.com",
+                    "favicon": "https://imgs.search.brave.com/h-UMKefr-GC4QAyvmDqJX6In84keNLnjKLoM-VE4l_w/rs:fit:32:32:1/g:ce/aHR0cDovL2Zhdmlj/b25zLnNlYXJjaC5i/cmF2ZS5jb20vaWNv/bnMvYjg3ZTk4MDVm/ZTE3YzUxZTc4Yjc3/YTE2MGI3MGVhNmQ2/MGE0Yjc4NzRhMmM1/ODMxYTIwNzI1ZjI0/NDkyZDI2Yy93d3cu/cXVvcmEuY29tLw",
+                    "path": "\u203a What-is-some-advice-to-climb-the-corporate-ladder-quickly-in-this-world"
+                },
+                "thumbnail": {
+                    "src": "https://imgs.search.brave.com/-gXlE5M32qzKTobLZADMiFBR912DkddgCAsgYBCb7C4/rs:fit:200:200:1/g:ce/aHR0cHM6Ly9xcGgu/Y2YyLnF1b3JhY2Ru/Lm5ldC9tYWluLWN1/c3RvbS10LTcyNDkt/NjAweDMxNS1sdXN4/cmt5Y3VlanNmdm1t/a2Z5Z2Z4bnF6ZnZr/cWN2eS5qcGVn",
+                    "original": "https://qph.cf2.quoracdn.net/main-custom-t-7249-600x315-lusxrkycuejsfvmmkfygfxnqzfvkqcvy.jpeg",
+                    "logo": false
+                }
+            }
+        ],
+        "family_friendly": true
+    }
+}

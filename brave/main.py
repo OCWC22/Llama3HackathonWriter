@@ -1,4 +1,5 @@
 # search.py
+import json
 import os
 from brave import BraveAPI
 from utils import dump_schema
@@ -15,7 +16,7 @@ brave = BraveAPI({
 def search_expert_suggestion_subtopic(subtopic):
     # Setting up parameters
     params = {
-        'q': f"Successful people's tips on {subtopic}",
+        'q': f"Successful people's thoughts on {subtopic}",
         'text_decorations': False,
         # 'freshness': "pw",
         'result_filter': "web",
@@ -24,6 +25,10 @@ def search_expert_suggestion_subtopic(subtopic):
 
     # Performing the search
     results = brave.search(params)
+
+     # Dumping the search results to a JSON file
+    with open(f"{subtopic}_search_results.json", "w") as file:
+        json.dump(results, file, indent=4)
     # print(results)
     # Dumping and printing the schema of the results
     print(dump_schema(results))
@@ -54,7 +59,12 @@ def search_expert_suggestion_subtopic_llm(subtopic):
 
 
 if __name__ == "__main__":
-    print(search_expert_suggestion_subtopic_llm("Communication with team members"))
+    # print(search_expert_suggestion_subtopic("communication with team members"))
+    # print(search_expert_suggestion_subtopic("how to climb corporate ladder as engineer"))
+    print(search_expert_suggestion_subtopic("how to host a meeting in tech firm"))
+
+
+
 
 
 
